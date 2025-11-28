@@ -14,6 +14,8 @@
 ### 🧰 Languages and Tools
   
 <img align="left" alt="SQL Server" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" />
+<img align="left" alt="Microsoft SQL Server" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" />
+<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
 <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=JChkA69vF7Lo&format=png&color=000000" />
 <img align="left" alt="Microsoft Power BI" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
